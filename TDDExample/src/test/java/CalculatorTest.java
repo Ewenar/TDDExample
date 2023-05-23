@@ -1,7 +1,8 @@
-// Buğra Çelebi SWE202 SOFTWARE VERIFICATION AND VALIDATION
-//2022-2023 SPRING SEMESTER
-//HOMEWORK 1
-//https://github.com/Ewenar/TDDExample/tree/master/TDDExample
+// Buğra Çelebi B201202005
+// SWE202 SOFTWARE VERIFICATION AND VALIDATION
+// 2022-2023 SPRING SEMESTER
+// HOMEWORK 1
+// https://github.com/Ewenar/TDDExample/tree/master/TDDExample
 
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
